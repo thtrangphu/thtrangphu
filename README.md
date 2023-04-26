@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://thtrangphu.github.io/porfolio/](https://thtrangphu.github.io/porfolio/)
 
-- 📝 I regularly write articles on [Đang cập nhật](Đang cập nhật)
+<!-- - 📝 I regularly write articles on [Đang cập nhật](Đang cập nhật) -->
 
 - 💬 Ask me about **everything you want**
 
