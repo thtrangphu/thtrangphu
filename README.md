@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trang</h1>
-<h3 align="center">I'm a third-year student at HCMUS</h3>
+<h3 align="center">I'm a 4th-year student at HCMUS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thtrangphu&label=Profile%20views&color=0e75b6&style=flat" alt="thtrangphu" /> </p>
 
